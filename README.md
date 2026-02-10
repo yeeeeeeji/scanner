@@ -1,4 +1,4 @@
-# Scanner — two-screen website (Wall + Control)
+# Scanner (Wall + Control)
 
 ## Quick start
 
